@@ -7,6 +7,7 @@ A Component Widget for feedback that can be used on any website.
 <h1 align="center">
     <img alt="Widget" src="./.github/img/widget.png" />
 </h1>
+<p>check out an application: https://widget-vtkaue.vercel.app/</p>
 
 # Layout
 
