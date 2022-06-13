@@ -9,6 +9,7 @@ A Component Widget for feedback that can be used on any website.
 </h1>
 
 <br>
+
 # Layout
 
 You can find the layout of this project [in this link](https://www.figma.com/community/file/1102912516166573468).
