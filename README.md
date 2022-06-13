@@ -61,3 +61,5 @@ Open terminal and execute the following command:
 # License
 
 MIT
+##
+done with made with 💜 by [me](https://github.com/vtkaue)
