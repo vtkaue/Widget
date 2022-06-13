@@ -1,36 +1,62 @@
 
 
 <h1 align="center">Widget</h1>
-<p>Um Component Widget para feedback que pode ser utilizado em qualquer site.</p>
+
+A Component Widget for feedback that can be used on any website.
+
 <h1 align="center">
-    <img alt="Letmeask" src="./.github/img/widget.png" />
+    <img alt="Widget" src="./.github/img/widget.png" />
 </h1>
 
 <br>
+# Layout
 
-## 🧪 Tecnologias
+You can find the layout of this project [in this link](https://www.figma.com/community/file/1102912516166573468).
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+You must create an account to access and view.
 
-- [ReactJs](https://reactjs.org)
+# Improvements checklist
+
+- [ ] Dark/Light theme
+- [ ] create a mobile version
+
+
+## 🧪 technology
+
+This project was developed with the following technologies:
 - [Vite](https://vitejs.dev/)
+- [ReactJs](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 
-## 🚀 Como executar
+## Clone repository
 
-Clone o projeto e acesse a pasta do mesmo.
+Create and go to the directory where you want to place the repository
 
 ```bash
-$ git clone https://github.com/vtkaue/Widget.git
-$ cd Widget
+  cd my-directory
 ```
 
-Para iniciá-lo, siga os passos abaixo:
+Clone the project
+
 ```bash
-# Instalar as dependências
-$ npm
-
-# Iniciar o projeto
-$ npm run dev
+  git clone https://github.com/pncsoares/nlw-return-impulse-web.git
 ```
+
+Go to the project directory
+
+```bash
+  cd nlw-return-impulse-web
+```
+
+## Start the web application
+
+Open terminal and execute the following command:
+
+```bash
+  npm run dev
+```
+
+# License
+
+MIT
