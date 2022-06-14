@@ -40,13 +40,13 @@ Create and go to the directory where you want to place the repository
 Clone the project
 
 ```bash
-  git clone https://github.com/pncsoares/nlw-return-impulse-web.git
+  git clone https://github.com/vtkaue/Widget.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd nlw-return-impulse-web
+  cd Widget
 ```
 
 ## Start the web application
